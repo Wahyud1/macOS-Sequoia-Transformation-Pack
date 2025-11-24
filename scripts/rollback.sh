@@ -1,1 +1,1 @@
-# Rollback Script (placeholder)
+(PASTE ROLLBACK.SH CONTENT FROM STEP 4 HERE)

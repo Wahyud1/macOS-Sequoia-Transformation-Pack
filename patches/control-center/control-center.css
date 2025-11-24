@@ -1,1 +1,15 @@
 /* Control Center CSS Patch */
+/* macOS Sequoia Control Center Style */
+
+.panel {
+    border-radius: 16px;
+    background: rgba(255,255,255,0.75);
+    backdrop-filter: blur(20px);
+}
+
+.panel section {
+    margin: 14px;
+    padding: 12px;
+    border-radius: 12px;
+    background: #ffffff;
+}

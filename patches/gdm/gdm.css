@@ -1,1 +1,13 @@
 /* GDM Theme Patch */
+/* macOS-style Login Screen for GNOME */
+
+#lockDialogGroup {
+    background-image: url("/usr/share/backgrounds/gnome/sequoia.jpg");
+    background-size: cover;
+}
+
+#login-window {
+    border-radius: 14px;
+    background: rgba(255, 255, 255, 0.35);
+    backdrop-filter: blur(18px);
+}

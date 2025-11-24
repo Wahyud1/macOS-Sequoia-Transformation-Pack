@@ -1,1 +1,1 @@
-# Ultra Sequoia Installer Script (placeholder)
+(PASTE ULTRA-SEQUOIA.SH CONTENT FROM STEP 3 HERE)
